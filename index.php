@@ -1,5 +1,6 @@
 <?php
 	/*Gitテスト用*/
+	/*別のところから更新*/
 	require_once("./admin/common/convert.php");
 	require_once("./admin/common/db.php");
 	$mydb = db_con();
